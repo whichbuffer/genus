@@ -1,2 +1,2 @@
 # genus
-Chat app with ReactJS and firebase backend
+Chat application with ReactJs and firebase backend
